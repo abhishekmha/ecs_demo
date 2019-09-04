@@ -4,9 +4,9 @@ import platform
 
 app = Flask(__name__)
 
+
 def add(x,y):
     return x+y
-
 
 def add(x, y):
     """Add Function"""
